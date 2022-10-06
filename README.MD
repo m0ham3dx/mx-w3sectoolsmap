@@ -43,4 +43,3 @@ Since I am not an actual dev. The map has been created manually meaning that if 
 
 1. I cannot guarantee the efficacy of the usage of the tools.
 2. I do not endorse its usage.
-3. 
